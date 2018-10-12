@@ -11,12 +11,12 @@ technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/datanucleus.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/bittorrent.md
 paper:
-  - title:"how big data related to people's health"
+  - title: "Wow big data related to people's health?"
     url: TAB
     group: None
 project:
-  - title:"how big data related to education"
+  - title:"How big data related to education?"
     url: TAB
-    group: Fa18-523-74
+    group: fa18-523-74
     code: TAB
      
