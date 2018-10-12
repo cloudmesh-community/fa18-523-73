@@ -8,7 +8,7 @@ owner:
 technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/azure-table.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/neptune.md
-  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/datanucleus.md\
+  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/datanucleus.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/bittorrent.md
 paper:
   - title:"how big data related to people's health"
