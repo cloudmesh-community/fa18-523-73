@@ -10,7 +10,7 @@ technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/datanucleus.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/bittorrent.md
 paper:
-  - Keyword: TAB
+  - Keyword: Big data, healthcare, healthcare informatics, unstructured data.
     title: "How big data related to people's health"
     url: https://github.com/cloudmesh-community/fa18-523-73/blob/master/paper/paper.md
     group: None
