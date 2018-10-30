@@ -11,7 +11,7 @@ technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/bittorrent.md
 paper:
   - Keyword: Big data, healthcare, healthcare informatics, unstructured data.
-    title: "Big data health care"
+    title: "Big data in healthcare"
     url: https://github.com/cloudmesh-community/fa18-523-73/blob/master/paper/paper.md
     group: None
 project:
