@@ -4,6 +4,7 @@ owner:
    lastname: "Tong"
    hid: "fa18-523-73"
    community: "e534"
+   semester: fa18
 technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/azure-table.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/neptune.md
