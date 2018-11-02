@@ -2,7 +2,11 @@
 
 Wangtong | wangton@iu.edu | hid: fa18-523-73
 
-##### Keywords: Big data, healthcare, healthcare informatics, unstructured data. 
+---
+
+Keywords: Big data, healthcare, healthcare informatics, unstructured data. 
+
+---
 
 ## Abstract
 
