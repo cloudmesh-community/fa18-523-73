@@ -1,5 +1,13 @@
 # Big Data in Education :hand: fa18-523-73 and fa18-523-74
+
+:o: format not followed is this duplicated?
+
+:o: remove numbers from sections
+
 Tong Wang and Yeyi Ma  |  Hid: fa18-523-73 and fa18-523-74  |  Email: wangton@iu.edu and yeyima@umail.iu.edu
+
+| github: [:cloud:](https://github.com/cloudmesh-community/fa18-523-73/blob/master/project-report/report.md)
+
 
 ---
 
