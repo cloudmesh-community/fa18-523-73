@@ -9,13 +9,13 @@ github:
 
 ---
 
-Keywords: Big data, healthcare, healthcare informatics, unstructured data. 
+Keywords: healthcare 
 
 ---
 
 ## Abstract
 
-The research paper aims to establish the application of Big Data in the
+This paper aims to establish the application of Big Data in the
 analysis, interpretation, and storage of medical records in the healthcare
 system. Big Data is used in the analysis of healthcare informatics, which
 consists of complex data sets that are hard to store, resolve, organize,
