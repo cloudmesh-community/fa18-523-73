@@ -4,6 +4,9 @@
 github:
 [:cloud:](https://github.com/cloudmesh-community/fa18-523-73/edit/master/paper/paper.md)
 
+:o: readme missses keyword
+:o: remove The research paper
+
 ---
 
 Keywords: Big data, healthcare, healthcare informatics, unstructured data. 
