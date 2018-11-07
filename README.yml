@@ -12,12 +12,12 @@ technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/datanucleus.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/bittorrent.md
 paper:
-  - Keyword: healthcare.
+  - keyword: Big data, healthcare, healthcare informatics, unstructured data
     title: "Big data in healthcare"
     url: https://github.com/cloudmesh-community/fa18-523-73/blob/master/paper/paper.md
     group: None
 project:
-  - Keyword: education
+  - keyword: education
     title: "Big data in education"
     url: https://github.com/cloudmesh-community/fa18-523-73/blob/master/project-report/report.md
     group: fa18-523-73, fa18-523-74
