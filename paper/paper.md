@@ -3,13 +3,13 @@
 | Wang Tong | wangton@iu.edu | Indiana University Bloomington | hid:fa18-523-73 |
 github:
 [:cloud:](https://github.com/cloudmesh-community/fa18-523-73/edit/master/paper/paper.md)
-
-:o: readme missses keyword
-:o: remove The research paper
+ 
+:o: readme missses keyword (fixed)
+:o: remove The research paper (fixed)
 
 ---
 
-Keywords: healthcare 
+keywords: Big data, healthcare, healthcare informatics, unstructured data
 
 ---
 
