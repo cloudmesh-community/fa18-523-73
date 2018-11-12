@@ -1,10 +1,12 @@
 # Big Data in Healthcare :hand: fa18-523-73
 
-:o: format incorrect
+:o: format incorrect (fixed)
 
-| Wang Tong | wangton@iu.edu | Indiana University Bloomington | hid:fa18-523-73 |
-github:
-[:cloud:](https://github.com/cloudmesh-community/fa18-523-73/edit/master/paper/paper.md)
+| Wang Tong
+| wangton@iu.edu
+| Indiana University Bloomington
+| hid:fa18-523-73
+| github: [:cloud:](https://github.com/cloudmesh-community/fa18-523-73/edit/master/paper/paper.md)
  
 :o: readme missses keyword (fixed)
 :o: remove The research paper (fixed)
