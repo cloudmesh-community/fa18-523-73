@@ -9,7 +9,10 @@
 | github: [:cloud:](https://github.com/cloudmesh-community/fa18-523-73/edit/master/paper/paper.md)
  
 :o: readme missses keyword (fixed)
+
 :o: remove The research paper (fixed)
+
+:o: please mere abstract into instroduction as paper is too short to justify abstract
 
 ---
 
