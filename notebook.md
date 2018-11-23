@@ -47,3 +47,11 @@
 11/16/2018-11/22/2018
 + Attended lecture
 + waitting for feedback of 2 page summary and final project for editing
+
+11/23/2018-11/29/2018
++ Attended lecture
++ editing 2 page summary and final project
+
+11/30/2018-12/06/2018
++ Attended lecture
++ editing 2 page summary and final project
