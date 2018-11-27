@@ -11,6 +11,8 @@
 
 :o: please merge abstract into instroduction as paper is too short to justify abstract (fixed)
 
+:o: speces before some of the citations missing
+
 ---
 
 keywords: Big data, healthcare, healthcare informatics, unstructured data
