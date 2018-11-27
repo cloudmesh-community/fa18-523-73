@@ -8,10 +8,7 @@
 | hid:fa18-523-73
 | github: [:cloud:](https://github.com/cloudmesh-community/fa18-523-73/edit/master/paper/paper.md)
  
-
-:o: please merge abstract into instroduction as paper is too short to justify abstract (fixed)
-
-:o: speces before some of the citations missing
+:o: speces before some of the citations missing, mentioned before in class
 
 ---
 
