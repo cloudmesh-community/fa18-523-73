@@ -8,7 +8,7 @@
 | hid:fa18-523-73
 | github: [:cloud:](https://github.com/cloudmesh-community/fa18-523-73/edit/master/paper/paper.md)
  
-:o: speces before some of the citations missing, mentioned before in class （fixed）
+:o: spaces before some of the citations missing, mentioned before in class （fixed）
 
 ---
 
