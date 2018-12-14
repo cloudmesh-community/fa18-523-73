@@ -1,4 +1,4 @@
-# Big Data in Education :hand: fa18-523-73, fa18-523-74
+# Big Data in Education
 
 | Tong Wang, Yeyi Ma
 | wangton@iu.edu, yeyima@umail.iu.edu
