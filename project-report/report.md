@@ -1,4 +1,4 @@
-# Big Data in Education
+# Big Data in Education :wave:
 
 | Tong Wang, Yeyi Ma
 | wangton@iu.edu, yeyima@umail.iu.edu
