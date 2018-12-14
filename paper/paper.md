@@ -1,6 +1,4 @@
-# Big Data in Healthcare :hand: fa18-523-73
-
-:o: format incorrect (fixed)
+# Big Data in Healthcare
 
 | Wang Tong
 | wangton@iu.edu
@@ -8,8 +6,6 @@
 | hid:fa18-523-73
 | github: [:cloud:](https://github.com/cloudmesh-community/fa18-523-73/edit/master/paper/paper.md)
  
-:o: spaces before some of the citations missing, mentioned before in class （fixed）
-
 ---
 
 keywords: Big data, healthcare, healthcare informatics, unstructured data
